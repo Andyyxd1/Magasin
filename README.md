@@ -1,3 +1,3 @@
 # Magasin
-Assignment 2
-Vi valgte dette magasinet: vogue 2022 spring test.
+Assignment 2:
+National Geographic traveller November 2022 Edition: Utrecht, The Netherlands;
