@@ -1,7 +1,7 @@
 body {
     font-family: "Lato", sans-serif;
     line-height: 25px;
-    border: 10px solid rgba(245, 245, 0, 0.945) ;
+    border: 10px solid rgb(255, 204, 0) ;
   }
   
   .sidenav {
