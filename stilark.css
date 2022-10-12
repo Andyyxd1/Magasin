@@ -1,7 +1,9 @@
 body {
     font-family: "Lato", sans-serif;
     line-height: 25px;
-    border: 10px solid rgb(255, 204, 0) ;
+    border-bottom: 10px solid rgb(255, 204, 0) ;
+    border-right: 10px solid rgb(255, 204, 0) ;
+    border-left: 10px solid rgb(255, 204, 0) ;
   }
   
   .sidenav {
@@ -41,6 +43,8 @@ body {
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: white;
       
   }
   .temp2{
@@ -67,23 +71,23 @@ body {
   .rødButton:hover {
     background-color: rgb(255, 204, 0);
     color:black;
-    transition: 1s;
+    transition: 0.5s;
+  }
+
+  .topnav {
+    background-color: white;
+    overflow: hidden;
+    padding: 2px;
   }
   
-  
-  
-  
-  
-  
- 
-  .temp {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
+  .topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: underline 2px;
+    text-decoration-color: rgb(255, 204, 0);
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
-  .rødt {
-    color:rgba(216, 90, 90, 0.932);
-    line-height: 38px;
-  }
+  
