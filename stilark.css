@@ -58,19 +58,7 @@ body {
   
   
   
-  .main {
-    margin-top: 80px;
-    margin-left: 400px; 
-    font-size: 20px; 
-    padding: 0px 40px;
-    text-align: center;
-    
-  }
-  .main p {
-    max-width: 500px;
-    display: inline-table;
-    
-  }
+  
  
   .temp {
     position: absolute;
