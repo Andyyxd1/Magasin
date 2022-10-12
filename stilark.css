@@ -64,6 +64,11 @@ body {
     font-size:21px;
 
   }
+  .rødButton:hover {
+    background-color: rgb(255, 204, 0);
+    color:black;
+    transition: 1s;
+  }
   
   
   
