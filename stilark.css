@@ -92,7 +92,10 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 
-  .bunn {
+  .underoverskrift {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 0.7px;
+    font-size: large;
     
   }
   
