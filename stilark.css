@@ -10,18 +10,19 @@ body {
     width: 270px;
     position: sticky;
     z-index: auto;
-
     left: 80px;
     overflow-x: hidden;
     padding: 8px 0;
     display: inline-table;
   }
+  
 
 
 
   .sidebarSkrift {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     letter-spacing: 0.7px;
+    inline-size: 350px;
   }
   
   
@@ -101,3 +102,4 @@ body {
     font-size: large;
     
   }
+
