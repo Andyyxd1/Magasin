@@ -133,7 +133,7 @@ body {
   .float p {
       font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       letter-spacing: 0.7px;
-      inline-size: 700px;
+      inline-size: 650px;
       border-left: 2px solid black;
       padding-left: 20px;
       display: fixed;
