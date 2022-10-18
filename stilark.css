@@ -120,14 +120,14 @@ body {
     text-decoration: underline 2px rgb(255, 204, 0);
   }
 
-  .bilde {
+  .bilde { /*bildene til venstre i sidebar*/
     padding:2px; 
     border: 2px solid black;
     height:auto;
   }
 
   .float {
-    float:right;
+    float:right;    /*Dette tilhører skriften til Day one market, aka main skrift*/
   }
 
   .float p {
@@ -136,5 +136,6 @@ body {
       inline-size: 1050px;
       border-left: 2px solid black;
       padding-left: 20px;
+      display: fixed;
           
   }
