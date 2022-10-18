@@ -134,5 +134,7 @@ body {
       font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       letter-spacing: 0.7px;
       inline-size: 1050px;
+      border-left: 2px solid black;
+      padding-left: 20px;
           
   }
